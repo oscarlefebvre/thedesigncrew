@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC32D18D-70E4-4F86-A8F2-C5913FE5F6A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4067DD6-FA60-47A9-A2E2-6BE4CEAEFB65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0619BA4B-2FCF-4FDB-9B89-263EB3B9E358",
+    "height": 36,
+    "width": 326,
+    "x": 25,
+    "y": 359
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "/ligne-rubrique",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F911DF8D-3367-46FB-B9CE-6DDA7F1D82DA",
+      "overrideName": "3A900AB7-A2F6-4B1F-80EE-1A345BAA74E2_stringValue",
+      "value": "Où sortir le soir ?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CFA14C7-0F5D-47DB-866A-ACED8120FCC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A7A1979-5B75-4B33-9B31-B2174DDE7440",
+  "verticalSpacing": 0
+}

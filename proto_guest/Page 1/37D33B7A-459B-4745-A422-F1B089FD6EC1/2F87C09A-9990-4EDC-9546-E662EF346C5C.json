@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F87C09A-9990-4EDC-9546-E662EF346C5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7DAF964-A0BD-43DC-800A-D8F3AEC31089",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D128BEA4-2C00-4CF6-B98C-36C2BBBB3719",
+    "height": 36,
+    "width": 326,
+    "x": 25,
+    "y": 143
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "/ligne-rubrique",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4161E5E7-8DEC-4C78-BE72-B2B939D43E96",
+      "overrideName": "3A900AB7-A2F6-4B1F-80EE-1A345BAA74E2_stringValue",
+      "value": "Comment se rendre à Lattes"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27F171B3-E41B-408E-881B-0155EFB9C03D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A7A1979-5B75-4B33-9B31-B2174DDE7440",
+  "verticalSpacing": 0
+}

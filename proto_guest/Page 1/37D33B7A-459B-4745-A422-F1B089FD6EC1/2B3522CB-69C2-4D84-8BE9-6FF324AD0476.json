@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B3522CB-69C2-4D84-8BE9-6FF324AD0476",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EC37410-BB30-4B45-87ED-CFDA276D2AF1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEFA2BFE-CBD3-4023-8204-EA4CA9C9B314",
+    "height": 36,
+    "width": 326,
+    "x": 25,
+    "y": 287
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "/ligne-rubrique",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F911DF8D-3367-46FB-B9CE-6DDA7F1D82DA",
+      "overrideName": "3A900AB7-A2F6-4B1F-80EE-1A345BAA74E2_stringValue",
+      "value": "Où boire un verre ?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "900E55FD-E8EE-4074-AC14-49C767F32949",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A7A1979-5B75-4B33-9B31-B2174DDE7440",
+  "verticalSpacing": 0
+}

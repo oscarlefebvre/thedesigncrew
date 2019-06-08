@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED022C9A-F305-4C9B-813E-35DE084DE22C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54695D61-6C26-4672-972B-A1338F049977",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "188466E7-6A02-43C2-8734-6F3790D949D4",
+    "height": 36,
+    "width": 326,
+    "x": 25,
+    "y": 395
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "/ligne-rubrique",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F911DF8D-3367-46FB-B9CE-6DDA7F1D82DA",
+      "overrideName": "3A900AB7-A2F6-4B1F-80EE-1A345BAA74E2_stringValue",
+      "value": "Quelles sont les festivités locales ?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14BB10C0-7BCB-4D8C-8938-51CF9E8E0303",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A7A1979-5B75-4B33-9B31-B2174DDE7440",
+  "verticalSpacing": 0
+}

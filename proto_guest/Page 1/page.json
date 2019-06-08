@@ -1,0 +1,94 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "076d32d0-8a04-11e9-9861-0df679fb0c60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "410C6B6F-36C2-4CF8-B91D-CDA73B9E1645"
+    },
+    {
+      "class": "artboard",
+      "id": "588DB77A-232C-444A-B723-42D54E7F2881"
+    },
+    {
+      "class": "artboard",
+      "id": "4579AFF5-CCD0-4521-A2DA-450DACCD80B7"
+    },
+    {
+      "class": "artboard",
+      "id": "CBE964C3-07AE-4F83-9820-7C4B4385F5E8"
+    },
+    {
+      "class": "artboard",
+      "id": "E06970B8-9575-4492-BFCD-58B8F96198C7"
+    },
+    {
+      "class": "artboard",
+      "id": "B8BD1531-4F85-4551-9C96-E7F12D61C724"
+    },
+    {
+      "class": "artboard",
+      "id": "18167D0C-C804-48B4-8FB3-5AC112B4E9F3"
+    },
+    {
+      "class": "artboard",
+      "id": "37D33B7A-459B-4745-A422-F1B089FD6EC1"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}

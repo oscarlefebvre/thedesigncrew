@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F6F3689-F034-4D88-9512-85E6C552DA3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72963D83-6997-4074-AB6A-716B3D299C3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13EF348F-E319-4F9B-BF92-7748D386D949",
+    "height": 36,
+    "width": 326,
+    "x": 25,
+    "y": 179
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "/ligne-rubrique",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7929625A-58E0-460D-A84F-E3B417673302",
+      "overrideName": "3A900AB7-A2F6-4B1F-80EE-1A345BAA74E2_stringValue",
+      "value": "Comment se rendre au logement"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4D5399A-DBBD-483D-A44E-737F2F13EE64",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7A7A1979-5B75-4B33-9B31-B2174DDE7440",
+  "verticalSpacing": 0
+}
