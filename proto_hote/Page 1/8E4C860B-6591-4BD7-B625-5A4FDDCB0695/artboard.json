@@ -35,7 +35,7 @@
     "do_objectID": "293AB92E-24CE-4808-9837-108F36450DC1"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,6 +61,10 @@
     {
       "class": "text",
       "id": "F119FBC5-CEBE-4F8B-88A2-2248E7A1D649"
+    },
+    {
+      "class": "text",
+      "id": "18D27A1F-2BC3-4334-A094-512190D925E1"
     }
   ],
   "name": "Appel",
